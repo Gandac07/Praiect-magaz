@@ -1,0 +1,2 @@
+# Praiect-magaz
+proiect magazin
