@@ -25,8 +25,8 @@
   "products": [
     {
       "id": 1,
-      "name": "LED display",
-      "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+      "name": " Bricheta Zippo",
+      "description": "Bricheta de inalta calitate cu benzina",
       "price": 92,
       "author_id": 1,
       "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
@@ -37,7 +37,7 @@
       "description": "Brand new and high quality.",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+      "photo_url": "https://m.media-amazon.com/images/I/81hiRYE7+YL.jpg"
     },
     {
       "id": 3,
