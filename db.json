@@ -27,25 +27,25 @@
       "id": 1,
       "name": "Zippo Brushed Crome",
       "description": "Bricheta de inalta calitate cu benzina",
-      "price": 92,
+      "price": 35,
       "author_id": 1,
       "photo_url": "https://m.media-amazon.com/images/I/81hiRYE7+YL.jpg"
     },
     {
       "id": 2,
       "name": "Zippo Venetian Brass",
-      "description": "Benzina pentru brichetele zippo",
+      "description": "Bricheta de inalta calitate cu benzina",
       "price": 55,
       "author_id": 3,
       "photo_url": "https://floppypipe.it/cdn/shop/products/gold1_900x.jpg?v=1676019120"
     },
     {
       "id": 3,
-      "name": "ESP8266 5V",
-      "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
-      "price": 300,
+      "name": "Zippo Simple Spade",
+      "description": "Bricheta de inalta calitate cu benzina",
+      "price": 32,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+      "photo_url": "https://www.zippo.com/cdn/shop/products/cfd8bea542016e2425d0e04d9c8f0710e1672856_1024x1024.jpg?v=1649683976"
     },
     {
       "id": 4,
