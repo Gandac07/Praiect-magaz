@@ -27,7 +27,7 @@
       "id": 1,
       "name": "Zippo Brushed Crome",
       "description": "Bricheta de inalta calitate cu benzina",
-      "price": 35,
+      "price": 350,
       "author_id": 1,
       "photo_url": "https://m.media-amazon.com/images/I/81hiRYE7+YL.jpg"
     },
@@ -35,7 +35,7 @@
       "id": 2,
       "name": "Zippo Venetian Brass",
       "description": "Bricheta de inalta calitate cu benzina",
-      "price": 55,
+      "price": 260,
       "author_id": 3,
       "photo_url": "https://floppypipe.it/cdn/shop/products/gold1_900x.jpg?v=1676019120"
     },
@@ -43,7 +43,7 @@
       "id": 3,
       "name": "Zippo Simple Spade",
       "description": "Bricheta de inalta calitate cu benzina",
-      "price": 32,
+      "price": 320,
       "author_id": 2,
       "photo_url": "https://www.zippo.com/cdn/shop/products/cfd8bea542016e2425d0e04d9c8f0710e1672856_1024x1024.jpg?v=1649683976"
     },
