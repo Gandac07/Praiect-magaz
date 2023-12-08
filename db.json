@@ -33,11 +33,11 @@
     },
     {
       "id": 2,
-      "name": "Arduino UNO",
-      "description": "Brand new and high quality.",
+      "name": "Benzina Zippo",
+      "description": "Benzina pentru brichetele zippo",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://m.media-amazon.com/images/I/81hiRYE7+YL.jpg"
+      "photo_url": "https://i5.walmartimages.com/asr/fe49b3f9-29ef-4ef3-b468-8c20adbefbcb.8722f2c6844ce0e15a885f9a29c15c8b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
     },
     {
       "id": 3,
