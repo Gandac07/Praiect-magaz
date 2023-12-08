@@ -57,11 +57,11 @@
     },
     {
       "id": 5,
-      "name": "Resistor 10k Ohm",
+      "name": "Zippo Eye of Providence",
       "description": "Can resist the voltage. Super cool.",
-      "price": 180,
+      "price": 199,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+      "photo_url": "https://revolucionstyle.com/cdn/shop/products/Zippo_Eye_of_providence_5000x.jpg?v=1602100923"
     },
     {
       "id": 6,
