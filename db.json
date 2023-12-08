@@ -33,11 +33,11 @@
     },
     {
       "id": 2,
-      "name": "Benzina Zippo",
+      "name": "Zippo Venetian Brass",
       "description": "Benzina pentru brichetele zippo",
-      "price": 180,
+      "price": 55,
       "author_id": 3,
-      "photo_url": "https://i5.walmartimages.com/asr/fe49b3f9-29ef-4ef3-b468-8c20adbefbcb.8722f2c6844ce0e15a885f9a29c15c8b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+      "photo_url": "https://floppypipe.it/cdn/shop/products/gold1_900x.jpg?v=1676019120"
     },
     {
       "id": 3,
@@ -69,7 +69,7 @@
       "description": "Epic.",
       "price": 24,
       "author_id": 2,
-      "photo_url": "https://i5.walmartimages.com/asr/fe49b3f9-29ef-4ef3-b468-8c20adbefbcb.8722f2c6844ce0e15a885f9a29c15c8b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+      "photo_url": "https://www.goodfellascigarshop.com/cdn/shop/products/zippo_fuel_-_355ml_2400x2400.jpg?v=1587065076"
     }
   ]
 }
